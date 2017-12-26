@@ -4,6 +4,8 @@
 #ifndef _DEFINES_H_
 #define _DEFINES_H_
 
+#include "stdint.h"
+
 #define HC595_COUNT		6
 #define WS2812_COUNT	7
 
