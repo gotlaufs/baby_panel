@@ -19,3 +19,8 @@ _autosave-*
 # Exported BOM files
 *.xml
 *.csv
+
+
+# Code composer studio
+Debug/
+Release/

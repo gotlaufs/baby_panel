@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name baby_panel_footprints)(type KiCad)(uri "$(KIPRJMOD)/baby_panel_footprints.pretty")(options "")(descr ""))
+)
